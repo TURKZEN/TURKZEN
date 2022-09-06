@@ -1,6 +1,4 @@
-## Merhaba,ben Batuhan Türkarslan <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-Merhaba,ben Batuhan Türkarslan;Ufuk Üniversitesi Bilişim Güvenliği Teknolojisinde okuyorum.Siber Güvenlik ve Yazılım ile ilgileniyorum.
 
 [![Linkedin Badge](https://img.shields.io/badge/-BatuhanTürkarslan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/batuhan-turkarslan/)](https://www.linkedin.com/in/batuhan-turkarslan/)
 [![Gmail Badge](https://img.shields.io/badge/-batuhanthd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:batuhanthd@gmail.com)](mailto:batuhanthd@gmail.com)
